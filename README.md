@@ -2,7 +2,7 @@
 # SignGrad: Adapting Step Size by Sign Change between Gradients
 
 Official PyTorch implementation of SignGrad: Adapting Step Size by Sign Change between Gradients
-# AngularGrad Optimizer
+# SignGrad Optimizer
 
 This repository contains the oficial implementation for [SignGrad: Adapting Step Size by Sign Change between Gradients]( todo paper link) in PyTorch.
 
